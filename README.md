@@ -1,6 +1,6 @@
 # Design-Patterns-in-Swift---GOF-Examples
 
-FoF motivation/sample code/examples in swift
+GoF motivation/sample code/examples in swift
 
 ## Creational
 
