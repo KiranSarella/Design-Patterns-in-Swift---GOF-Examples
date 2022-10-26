@@ -14,11 +14,11 @@ GoF motivation/sample code/examples in swift
 
 - [X] Adapter
 - [X] Bridge
-- [X] Composite
+- [ ] Composite
 - [X] Decorator
 - [X] Facade
-- [ ] Flyweight
-- [ ] Proxy
+- [X] Flyweight
+- [X] Proxy
 
 ## Behavioural
 
