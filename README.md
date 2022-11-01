@@ -25,7 +25,7 @@ GoF motivation/sample code/examples in swift
 - [ ] Interpreter
 - [X] Template Method
 - [X] Chain of Responsibility
-- [ ] Command
+- [X] Command
 - [ ] Iterator
 - [ ] Mediator
 - [ ] Memento
