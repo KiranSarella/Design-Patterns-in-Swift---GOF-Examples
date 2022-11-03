@@ -30,6 +30,6 @@ GoF motivation/sample code/examples in swift
 - [ ] Mediator
 - [ ] Memento
 - [X] Observer
-- [ ] State
+- [X] State
 - [X] Strategy
 - [ ] Visitor
