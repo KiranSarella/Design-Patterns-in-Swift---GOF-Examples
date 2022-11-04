@@ -8,7 +8,7 @@ GoF motivation/sample code/examples in swift
 - [X] Builder
 - [X] Factory Method
 - [ ] Prototype
-- [ ] Singleton
+- [X] Singleton
 
 ## Structural
 
