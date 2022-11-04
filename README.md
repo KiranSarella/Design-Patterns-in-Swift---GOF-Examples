@@ -14,7 +14,7 @@ GoF motivation/sample code/examples in swift
 
 - [X] Adapter
 - [X] Bridge
-- [ ] Composite
+- [X] Composite
 - [X] Decorator
 - [X] Facade
 - [X] Flyweight
